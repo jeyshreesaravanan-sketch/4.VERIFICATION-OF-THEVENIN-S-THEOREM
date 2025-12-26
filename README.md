@@ -1,5 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+## NAME: JEY SHREE S
+## REF NO: 25017927
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -33,6 +34,18 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+![WhatsApp Image 2025-12-26 at 19 46 49_869ed45b](https://github.com/user-attachments/assets/b7fb893c-2a33-4a19-b7aa-8ffa6cfbc1a4)
+
+![WhatsApp Image 2025-12-26 at 19 47 12_d2adf7e9](https://github.com/user-attachments/assets/6b707a0e-a727-4475-91da-9b1b9178cfc8)
+
+![WhatsApp Image 2025-12-26 at 19 47 27_a5087e2e](https://github.com/user-attachments/assets/106597da-6573-448b-8940-818196b90ec0)
+
+![WhatsApp Image 2025-12-26 at 19 47 46_9bfa98fe](https://github.com/user-attachments/assets/95997c3c-b093-4159-befb-144e1b236a84)
+
+![WhatsApp Image 2025-12-26 at 19 48 03_3a1bde9c](https://github.com/user-attachments/assets/342d7125-64cd-410d-b170-94bcc7fa54db)
+
+
+
 
 To measure IL
 
